@@ -1,10 +1,10 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Join the commuity, learn new things!",
+  "title": "Africa Youth Entrepreneurs Summit 2020",
+  "description": "The Africa Youth Entrepreneurs Summit is our annual flagship event which aims to be the most innovative and challenging conferences in the African region.",
   "image": "images/social-share.jpg",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
-  "partnershipProposition": "https://bit.ly/dfua17-partners",
+  "keywords": "gaborone, africa, entrepreneurs,botswana, conference",
+  "dates": "March 20, 2020",
+  "partnershipProposition": "",
   "share": "Share",
   "followOur": "Follow our",
   "followUs": "Follow us",
@@ -32,56 +32,7 @@
     "browseSession": "Browse sessions"
   },
   "footerRelBlock": [
-    {
-      "title": "About",
-      "links": [
-        {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
-        {
-          "name": "GDG",
-          "url": "https://developers.google.com/groups/",
-          "newTab": true
-        },
-        {
-          "name": "DevFest",
-          "url": "https://devfest.withgoogle.com/",
-          "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "Explore Past DevFests",
-      "links": [
-        {
-          "name": "DFUA 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
-          "newTab": true
-        },
-        {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
-          "newTab": true
-        }
-      ]
-    },
+  
     {
       "title": "Event Resources",
       "links": [
@@ -98,11 +49,6 @@
         {
           "name": "Media Kit",
           "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
           "newTab": true
         },
         {
@@ -289,11 +235,11 @@
         }
       },
       {
-        "title": "What is DevFest?",
-        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "title": "What is AYES",
+        "description": "The Africa Youth Entrepreneurs Summit is our annual flagship event which aims to be the most innovative and challenging conferences in the African region.",
         "callToAction": {
           "label": "Read more",
-          "link": "https://devfest.withgoogle.com/",
+          "link": "",
           "newTab": true
         }
       }
